@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205668398896",
+    "project_id": "cfpay-98650",
+    "storage_bucket": "cfpay-98650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205668398896:android:3fb42b991d80eb2e44faf5",
+        "android_client_info": {
+          "package_name": "com.example.cfpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLyKSaZPHrr3JpKMRO6q7DC3RAXXs8g9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
